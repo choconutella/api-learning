@@ -1,0 +1,2319 @@
+{
+  "status": "success",
+  "data": {
+    "ono": "A3101230016",
+    "lno": "A3101230016",
+    "pid": "3510050208950006",
+    "name": "Kevin Sanjaya Sukamuljo",
+    "birth_dt": "19950802",
+    "sex": "1",
+    "source": {
+      "code": "KCU",
+      "name": "PBSI",
+      "room_no": ""
+    },
+    "clinician": {
+      "code": "00",
+      "name": "N/A"
+    },
+    "comment": "",
+    "detail": [
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "FBC",
+          "test_nm": "Hematologi Lengkap",
+          "data_type": "ST",
+          "result_value": "",
+          "unit": "",
+          "flag": "",
+          "ref_range": "",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_000",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "FITRI",
+            "user_name": "SAFITRI YULLIANI",
+            "date": "20230131141400"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "HB",
+          "test_nm": "Hemoglobin",
+          "data_type": "NM",
+          "result_value": "15.5",
+          "unit": "g/dL",
+          "flag": "N",
+          "ref_range": "13.0 - 17.0",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_001",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "HCT",
+          "test_nm": "Hematokrit",
+          "data_type": "NM",
+          "result_value": "44.2",
+          "unit": "%",
+          "flag": "N",
+          "ref_range": "40.0 - 48.0",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_002",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "RBC",
+          "test_nm": "Eritrosit",
+          "data_type": "NM",
+          "result_value": "5.28",
+          "unit": "10^6/uL",
+          "flag": "H",
+          "ref_range": "4.00 - 5.00",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_003",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "INDEX",
+          "test_nm": "Nilai MC",
+          "data_type": "ST",
+          "result_value": "",
+          "unit": "",
+          "flag": "",
+          "ref_range": "",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_004",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131135455"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "MCV",
+          "test_nm": "MCV",
+          "data_type": "NM",
+          "result_value": "83.7",
+          "unit": "fL",
+          "flag": "N",
+          "ref_range": "82.0 - 92.0",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_005",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "MCH",
+          "test_nm": "MCH",
+          "data_type": "NM",
+          "result_value": "29.4",
+          "unit": "pg",
+          "flag": "N",
+          "ref_range": "27.0 - 31.0",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_006",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "MCHC",
+          "test_nm": "MCHC",
+          "data_type": "NM",
+          "result_value": "35.1",
+          "unit": "g/dL",
+          "flag": "N",
+          "ref_range": "32.0 - 36.0",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_007",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "RDW",
+          "test_nm": "RDW",
+          "data_type": "NM",
+          "result_value": "12.8",
+          "unit": "%",
+          "flag": "N",
+          "ref_range": "11.3 - 14.6",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_008",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "PLT",
+          "test_nm": "Trombosit",
+          "data_type": "NM",
+          "result_value": "264",
+          "unit": "10^3/uL",
+          "flag": "N",
+          "ref_range": "185 - 398",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_009",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "WBC",
+          "test_nm": "Leukosit",
+          "data_type": "NM",
+          "result_value": "5.95",
+          "unit": "10^3/uL",
+          "flag": "N",
+          "ref_range": "5.00 - 10.00",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_010",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "DIFF",
+          "test_nm": "Hitung Jenis",
+          "data_type": "ST",
+          "result_value": "",
+          "unit": "",
+          "flag": "",
+          "ref_range": "",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_011",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131135455"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "BAS",
+          "test_nm": "Basofil",
+          "data_type": "NM",
+          "result_value": "0",
+          "unit": "%",
+          "flag": "N",
+          "ref_range": "0 - 1",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_012",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "EOS",
+          "test_nm": "Eosinofil",
+          "data_type": "NM",
+          "result_value": "3",
+          "unit": "%",
+          "flag": "N",
+          "ref_range": "1 - 5",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_013",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "NEU",
+          "test_nm": "Netrofil",
+          "data_type": "NM",
+          "result_value": "57",
+          "unit": "%",
+          "flag": "N",
+          "ref_range": "42 - 71",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_014",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "LYMP",
+          "test_nm": "Limfosit",
+          "data_type": "NM",
+          "result_value": "35",
+          "unit": "%",
+          "flag": "N",
+          "ref_range": "20 - 45",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_015",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "MONO",
+          "test_nm": "Monosit",
+          "data_type": "NM",
+          "result_value": "5",
+          "unit": "%",
+          "flag": "N",
+          "ref_range": "4 - 10",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_016",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "HEMATOLOGI",
+        "order_testid": "FBC",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "ESR",
+          "test_nm": "Laju Endap Darah",
+          "data_type": "NM",
+          "result_value": "4",
+          "unit": "mm/jam",
+          "flag": "N",
+          "ref_range": "0 - 10",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "100_000_017",
+          "order_testid": "FBC",
+          "order_testnm": "Hematologi Lengkap",
+          "test_group": "HEMATOLOGI",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "30",
+            "name": "EDTA",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130908"
+          },
+          "release": {
+            "user_id": "FITRI",
+            "user_name": "SAFITRI YULLIANI",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "KIMIA",
+        "order_testid": "CREAP",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "CREAP",
+          "test_nm": "Kreatinin",
+          "data_type": "ST",
+          "result_value": "",
+          "unit": "",
+          "flag": "",
+          "ref_range": "",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "150_000_000",
+          "order_testid": "CREAP",
+          "order_testnm": "Kreatinin",
+          "test_group": "KIMIA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "10",
+            "name": "Serum",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130912"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131135455"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "KIMIA",
+        "order_testid": "K",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "K",
+          "test_nm": "Kalium",
+          "data_type": "NM",
+          "result_value": "5.1",
+          "unit": "mmol/L",
+          "flag": "N",
+          "ref_range": "3.5      -      5.1",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "150_000_001",
+          "order_testid": "K",
+          "order_testnm": "Kalium",
+          "test_group": "KIMIA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "10",
+            "name": "Serum",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130912"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "KIMIA",
+        "order_testid": "CL",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "CL",
+          "test_nm": "Chlorida",
+          "data_type": "NM",
+          "result_value": "103",
+          "unit": "mmol/L",
+          "flag": "N",
+          "ref_range": "98 - 107",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "150_000_001",
+          "order_testid": "CL",
+          "order_testnm": "Chlorida",
+          "test_group": "KIMIA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "10",
+            "name": "Serum",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130912"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "KIMIA",
+        "order_testid": "NA",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "NA",
+          "test_nm": "Natrium",
+          "data_type": "NM",
+          "result_value": "140",
+          "unit": "mmol/L",
+          "flag": "N",
+          "ref_range": "136      -      145",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "150_000_001",
+          "order_testid": "NA",
+          "order_testnm": "Natrium",
+          "test_group": "KIMIA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "10",
+            "name": "Serum",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130912"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "KIMIA",
+        "order_testid": "UA",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "UA",
+          "test_nm": "Asam Urat",
+          "data_type": "NM",
+          "result_value": "5.3",
+          "unit": "mg/dL",
+          "flag": "N",
+          "ref_range": "3.4 - 7.0",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "150_000_001",
+          "order_testid": "UA",
+          "order_testnm": "Asam Urat",
+          "test_group": "KIMIA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "10",
+            "name": "Serum",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130912"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "KIMIA",
+        "order_testid": "ALT",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "ALT",
+          "test_nm": "SGPT",
+          "data_type": "NM",
+          "result_value": "14",
+          "unit": "U/L",
+          "flag": "N",
+          "ref_range": "< 41",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "150_000_001",
+          "order_testid": "ALT",
+          "order_testnm": "SGPT",
+          "test_group": "KIMIA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "10",
+            "name": "Serum",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130912"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "KIMIA",
+        "order_testid": "AST",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "AST",
+          "test_nm": "SGOT",
+          "data_type": "NM",
+          "result_value": "18",
+          "unit": "U/L",
+          "flag": "N",
+          "ref_range": "< 40",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "150_000_001",
+          "order_testid": "AST",
+          "order_testnm": "SGOT",
+          "test_group": "KIMIA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "10",
+            "name": "Serum",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130912"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "KIMIA",
+        "order_testid": "GGT",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "GGT",
+          "test_nm": "Gamma GT",
+          "data_type": "NM",
+          "result_value": "14",
+          "unit": "U/L",
+          "flag": "N",
+          "ref_range": "< 60",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "150_000_001",
+          "order_testid": "GGT",
+          "order_testnm": "Gamma GT",
+          "test_group": "KIMIA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "10",
+            "name": "Serum",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130912"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "KIMIA",
+        "order_testid": "CREAP",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "CREA",
+          "test_nm": "Kreatinin",
+          "data_type": "NM",
+          "result_value": "1.1",
+          "unit": "mg/dL",
+          "flag": "N",
+          "ref_range": "0.7 - 1.2",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "150_000_001",
+          "order_testid": "CREAP",
+          "order_testnm": "Kreatinin",
+          "test_group": "KIMIA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "10",
+            "name": "Serum",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130912"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "KIMIA",
+        "order_testid": "UREA",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "UREA",
+          "test_nm": "Ureum",
+          "data_type": "NM",
+          "result_value": "26",
+          "unit": "mg/dL",
+          "flag": "N",
+          "ref_range": "17 - 49",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "150_000_001",
+          "order_testid": "UREA",
+          "order_testnm": "Ureum",
+          "test_group": "KIMIA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "10",
+            "name": "Serum",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130912"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "KIMIA",
+        "order_testid": "CREAP",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "EGFR",
+          "test_nm": "eGFR",
+          "data_type": "NM",
+          "result_value": "91.5",
+          "unit": "mL/mnt/1.73 m^2",
+          "flag": "N",
+          "ref_range": "",
+          "status": "F",
+          "test_comment": ">= 60\tFungsi ginjal normal~~Reff : National Kidney Foundation, 2006",
+          "disp_seq": "150_000_002",
+          "order_testid": "CREAP",
+          "order_testnm": "Kreatinin",
+          "test_group": "KIMIA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "10",
+            "name": "Serum",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130912"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "COMPLU",
+          "test_nm": "Urin Lengkap",
+          "data_type": "ST",
+          "result_value": "",
+          "unit": "",
+          "flag": "",
+          "ref_range": "",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_000",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131135616"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "MACURC",
+          "test_nm": "Makroskopis",
+          "data_type": "ST",
+          "result_value": "",
+          "unit": "",
+          "flag": "",
+          "ref_range": "",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_001",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131135616"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "COLORU",
+          "test_nm": "Warna",
+          "data_type": "ST",
+          "result_value": "Kuning",
+          "unit": "",
+          "flag": "N",
+          "ref_range": "",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_002",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "CLARU",
+          "test_nm": "Kejernihan",
+          "data_type": "ST",
+          "result_value": "Jernih",
+          "unit": "",
+          "flag": "N",
+          "ref_range": "Jernih",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_003",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "SGU",
+          "test_nm": "Berat Jenis",
+          "data_type": "ST",
+          "result_value": "1.020",
+          "unit": "",
+          "flag": "N",
+          "ref_range": "1.000 - 1.030",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_004",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "PHU",
+          "test_nm": "pH",
+          "data_type": "ST",
+          "result_value": "5",
+          "unit": "",
+          "flag": "N",
+          "ref_range": "4.5 - 8.0",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_005",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "LESU",
+          "test_nm": "Leukosit Esterase",
+          "data_type": "ST",
+          "result_value": "Negatif",
+          "unit": "Leu/uL^2",
+          "flag": "N",
+          "ref_range": "Negatif",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_006",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "ERESU",
+          "test_nm": "Eritrosit",
+          "data_type": "ST",
+          "result_value": "Negatif",
+          "unit": "/uL",
+          "flag": "N",
+          "ref_range": "Negatif",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_007",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "NITU",
+          "test_nm": "Nitrit",
+          "data_type": "ST",
+          "result_value": "Negatif",
+          "unit": "",
+          "flag": "N",
+          "ref_range": "Negatif",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_008",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "ALBU",
+          "test_nm": "Protein",
+          "data_type": "ST",
+          "result_value": "Negatif",
+          "unit": "mg/dL",
+          "flag": "N",
+          "ref_range": "Negatif",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_009",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "GLUU",
+          "test_nm": "Glukosa",
+          "data_type": "ST",
+          "result_value": "Negatif",
+          "unit": "mg/dL",
+          "flag": "N",
+          "ref_range": "Negatif",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_010",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "KETU",
+          "test_nm": "Keton",
+          "data_type": "ST",
+          "result_value": "Negatif",
+          "unit": "mg/dL",
+          "flag": "N",
+          "ref_range": "Negatif",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_011",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "UROBU",
+          "test_nm": "Urobilinogen",
+          "data_type": "ST",
+          "result_value": "Negatif",
+          "unit": "mg/dL",
+          "flag": "N",
+          "ref_range": "0.10     -     1.00",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_012",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "BILU",
+          "test_nm": "Bilirubin",
+          "data_type": "ST",
+          "result_value": "Negatif",
+          "unit": "",
+          "flag": "N",
+          "ref_range": "Negatif",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_013",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "MICUR",
+          "test_nm": "Mikroskopis",
+          "data_type": "ST",
+          "result_value": "",
+          "unit": "",
+          "flag": "",
+          "ref_range": "",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_014",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131135616"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "ERYU",
+          "test_nm": "Eritrosit",
+          "data_type": "NM",
+          "result_value": "Negatif",
+          "unit": "Sel / LPB",
+          "flag": "N",
+          "ref_range": "0 - 2",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_015",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "LEUU",
+          "test_nm": "Leukosit",
+          "data_type": "NM",
+          "result_value": "0 - 2",
+          "unit": "Sel / LPB",
+          "flag": "N",
+          "ref_range": "0 - 3",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_016",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "EPITU",
+          "test_nm": "Epitel",
+          "data_type": "ST",
+          "result_value": "1 - 2",
+          "unit": "Sel / LPK",
+          "flag": "N",
+          "ref_range": "5 - 10",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_017",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "CASTU",
+          "test_nm": "Silinder",
+          "data_type": "FT",
+          "result_value": "",
+          "unit": "Sel / LPK",
+          "flag": "N",
+          "ref_range": "Negatif",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_018",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "CRYSTU",
+          "test_nm": "Kristal",
+          "data_type": "FT",
+          "result_value": "",
+          "unit": "Sel / LPK",
+          "flag": "N",
+          "ref_range": "",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_019",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "BACTU",
+          "test_nm": "Bakteri",
+          "data_type": "ST",
+          "result_value": "Negatif",
+          "unit": "",
+          "flag": "N",
+          "ref_range": "Negatif",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_020",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      },
+      {
+        "test_group": "URINALISA",
+        "order_testid": "COMPLU",
+        "his_orderid": "N/A",
+        "test": {
+          "test_cd": "OTHERU",
+          "test_nm": "Lain-lain",
+          "data_type": "FT",
+          "result_value": "",
+          "unit": "",
+          "flag": "N",
+          "ref_range": "",
+          "status": "F",
+          "test_comment": "",
+          "disp_seq": "525_000_021",
+          "order_testid": "COMPLU",
+          "order_testnm": "Urin Lengkap",
+          "test_group": "URINALISA",
+          "item_parent": "000000",
+          "method": "",
+          "his_cd": "N/A",
+          "specimen": {
+            "code": "20",
+            "name": "Urine",
+            "user_id": "INDIRA",
+            "user_name": "INDIRA MAHARANI",
+            "date": "20230131130943"
+          },
+          "release": {
+            "user_id": "WENI",
+            "user_name": "WENI NURMILAH",
+            "date": "20230131152224"
+          },
+          "authorise": {
+            "user_id": "YAUFITA",
+            "user_name": "YAUFITA LOKANANTA",
+            "date": "20230131152224"
+          },
+          "phoned": {
+            "user_id": "",
+            "user_name": "",
+            "date": ""
+          }
+        }
+      }
+    ],
+    "fileUrl": "http://108.136.172.29/hclab/api/result/pdf/?ono=A3101230016&k=3510"
+  }
+}
